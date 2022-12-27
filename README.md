@@ -1,6 +1,6 @@
 ### Hi there, im Wenceslao! 👋
 
-🔭 Sofware developer. <br />
+🔭 Software developer. <br />
 🎓 Studying Software Engineering.<br />
 ⚡ I’m always taking new challenges and learning something new.<br />
 📌 Mar del Plata, Argentina.<br />
