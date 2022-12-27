@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, im Wenceslao! 👋
+
+🔭 Sofware developer. <br />
+🎓 Studying Software Engineering.<br />
+⚡ I’m always taking new challenges and learning something new.<br />
+📌 Mar del Plata, Argentina.<br />
+📫 Contact me: <br />
+    -Email: wenchoavalos8@gmail.com<br />
+    -Linkedin: https://www.linkedin.com/in/wenceslao-avalos-588064259/<br />
 
 <!--
 **Wencho8/Wencho8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
