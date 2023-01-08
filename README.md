@@ -2,7 +2,7 @@
 
 🔭 Software developer. <br />
 🎓 Studying Software Engineering.<br />
-⚡ "I'm constantly seeking out new challenges.<br />
+⚡ I'm constantly seeking out new challenges.<br />
 📌 Mar del Plata, Argentina.<br />
 📫 Contact me: <br />
     -Email: wenchoavalos8@gmail.com<br />
