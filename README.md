@@ -1,4 +1,4 @@
-### Hi there, im Wenceslao! 👋
+### Hi there, i'm Wenceslao! 👋
 
 🔭 Software developer. <br />
 🎓 Studying Software Engineering.<br />
