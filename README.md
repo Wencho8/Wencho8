@@ -1,9 +1,10 @@
-### Hi there, i'm Wenceslao! 👋
+### Hi there, I'm Wenceslao! 👋
 
-🔭 Software developer. <br />
-🎓 Studying Software Engineering.<br />
+🎓 Software Engineer.<br />
+🔭 Machine Learning & Fullstack development <br />
 ⚡ I'm constantly seeking out new challenges.<br />
 📌 Mar del Plata, Argentina.<br />
+
 📫 Contact me: <br />
     -Email: wenchoavalos8@gmail.com<br />
     -Linkedin: https://www.linkedin.com/in/wenceslao-avalos-588064259/<br />
