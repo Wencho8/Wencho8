@@ -1,7 +1,7 @@
 ### Hi there, I'm Wenceslao! 👋
 
 🎓 Software Engineer.<br />
-🔭 Machine Learning & Fullstack development <br />
+🔭 AI Engineering & Fullstack development <br />
 ⚡ I'm constantly seeking out new challenges.<br />
 📌 Mar del Plata, Argentina.<br />
 
